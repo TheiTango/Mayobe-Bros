@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Technology",
+    "slug": "technology",
+    "description": "Latest tech news and insights",
+    "display_order": 1,
+    "show_in_footer": true
+  },
+  {
+    "id": "2",
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "description": "Lifestyle tips and tricks",
+    "display_order": 2,
+    "show_in_footer": true
+  },
+  {
+    "id": "3",
+    "name": "Health",
+    "slug": "health",
+    "description": "Health and wellness advice",
+    "display_order": 3,
+    "show_in_footer": true
+  }
+]
